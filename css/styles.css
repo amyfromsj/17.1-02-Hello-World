@@ -1,0 +1,15 @@
+body {
+    font-family: 'Press Start 2P', sans-serif;
+    background-color: rgb(255, 247, 172);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+hr {
+    margin: 2rem 0;
+    border-top: 3px double black;
+}
+
+h1 {
+    text-align: center;
+}
